@@ -1,1 +1,2 @@
 hi  this sample.txt
+ all are added to gitgub
