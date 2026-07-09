@@ -1,2 +1,3 @@
 hi  this sample.txt
  all are added to gitgub
+hi how are u srinu
